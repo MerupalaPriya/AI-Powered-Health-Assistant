@@ -13,6 +13,9 @@ Hello and welcome! We're excited to introduce our AI-powered health assistant—
 
 ## How It Works
 Our assistant leverages AI and data analysis to understand your health goals. As you interact, it adapts to provide relevant recommendations, guiding you toward a healthier lifestyle.
+![WhatsApp Image 2025-02-12 at 14 34 04_cbb05102](https://github.com/user-attachments/assets/09d2c66b-a8b0-4964-86ad-0cc1e6314fa3)
+![WhatsApp Image 2025-02-12 at 11 45 40_62be3090](https://github.com/user-attachments/assets/7fa117b9-9684-45fe-9e5b-c4ba2f4e49fb)
+
 
 ## Getting Started
 ### Installation
@@ -51,5 +54,5 @@ We value community contributions! If you have ideas or improvements:
 4. Open a pull request for review.
 
 ## License
-This project is open-source under the MIT License. See the LICENSE file for details.
+This project is open-source under the MIT License.
 
