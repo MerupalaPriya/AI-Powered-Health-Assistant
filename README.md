@@ -18,7 +18,7 @@ Our assistant leverages AI and data analysis to understand your health goals. As
 ### Installation
 1. **Clone the Repository**
    ```sh
-   
+   https://github.com/MerupalaPriya/AI-Powered-Health-Assistant.git
    ```
 2. **Navigate to the Project Folder**
    ```sh
